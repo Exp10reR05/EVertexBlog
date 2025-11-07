@@ -1515,7 +1515,7 @@ pre .deletion {
   min-height: 90vh;
 }
 .home-banner-container .content .description {
-  font-size: 2.8rem;
+  font-size: 3.8rem;
   line-height: 1.2;
   color: var(--home-banner-text-color);
 }
@@ -1526,15 +1526,15 @@ pre .deletion {
   font-weight: 350;
 }
 .home-banner-container .content .description p i {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-style: normal;
 }
 .home-banner-container .content .description p span {
-  font-size: 1.575rem;
+  font-size: 2.1rem;
 }
 @media (max-width: 768px) {
   .home-banner-container .content .description {
-    font-size: 2.52rem;
+    font-size: 3.42rem;
   }
 }
 .image-viewer-container {
